@@ -42,7 +42,6 @@ body {
   @include notSelectable();
 
   &:before {
-    content: "JS>";
     position: fixed;
     top: 30vh;
     left: 40vw;
@@ -50,7 +49,6 @@ body {
     font-family: 'Fenix', sans-serif;
   }
   &:after {
-    content: "REPL for fun 🙈";
     position: fixed;
     top: 50vh;
     left: 43vw;

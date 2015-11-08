@@ -17,7 +17,7 @@
     }
 
     .repl-console-message-filters {
-      font-family: monospace;
+      font-family: Menlo, monospace;
       display: flex;
       padding: 5px 2px;
       border-bottom: 1px solid if($theme == $dark-theme, $dark-app-console-message-filter-border-color, $lt-app-console-message-filter-border-color);
@@ -99,7 +99,7 @@
       border-radius: 0.5em;
       background-color: if($theme == $dark-theme, $dark-app-console-message-dup-count-bg-color, $lt-app-console-message-dup-count-bg-color);
       color: if($theme == $dark-theme, $dark-app-console-message-dup-count-color, $lt-app-console-message-dup-count-color);
-      font-family: monospace;
+      font-family: Menlo, monospace;
       width: 1.2em;
       height: 1.18em;
       display: inline-block;

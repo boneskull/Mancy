@@ -8,7 +8,7 @@ $dark-app-suggestion-border-color: silver;
 $dark-app-suggestion-entry-border-color: #C2BFBF;
 $dark-app-suggestion-type-background-color: transparent;
 $dark-app-suggestion-type-color: #FF0044;
-$dark-app-suggestion-type-font-family: monospace;
+$dark-app-suggestion-type-font-family: Menlo, monospace;
 $dark-app-suggestion-type-expect-color: $dark-app-color;
 $dark-app-suggestion-type-hightlight-color: #7DC5EA;
 
@@ -34,7 +34,7 @@ $dark-app-status-bar-console-release-notification-color: dodgerblue;
 $dark-app-status-bar-run-help-color: #B3B1B1;
 $dark-app-status-bar-run-color: #CCCC4C;
 
-$dark-app-water-mark-color: rgba(192, 192, 192, 0.2);
+$dark-app-water-mark-color: rgba(192, 192, 192, 0);
 $dark-app-entry-ellipsis-color: crimson;
 
 $dark-app-console-resize-handle-color: rgb(68, 66, 67);
